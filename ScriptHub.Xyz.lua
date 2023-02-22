@@ -71,7 +71,7 @@ Main_Frame_1.BackgroundColor3 = Color3.new(0, 0, 0)
 Main_Frame_1.BorderSizePixel = 0
 Main_Frame_1.ClipsDescendants = true
 Main_Frame_1.Position = UDim2.new(0.5,0.5,0.5,0.5)
-Main_Frame_1.Size = UDim2.new(0, 307,0, 193)
+Main_Frame_1.Size = UDim2.new(0, 191, 0, 122)
 
 Sections.Name = "Sections"
 Sections.Parent = Main_Frame_1
